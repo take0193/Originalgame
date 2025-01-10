@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: bae47a08da050f64c81bef82eab2bdff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Hadou: {fileID: 6767862897368604988, guid: 6f80e0141ab18d34bb3826c3ce3bb77d, type: 3}
+  - playerManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
